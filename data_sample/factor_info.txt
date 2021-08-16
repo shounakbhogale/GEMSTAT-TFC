@@ -1,0 +1,12 @@
+Bap	1	0
+Bin	1	0
+Ci	1	0
+Doc	1	0
+En	1	0
+Mad	1	0
+Med	1	0
+Pan	1	0
+Pox	1	0
+Slp	1	0
+Tin	1	0
+Twi	1	0

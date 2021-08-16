@@ -1,0 +1,11 @@
+prefix=/Users/shounakbhogale/Desktop/Project/GEMSTAT/external/usr
+exec_prefix=/Users/shounakbhogale/Desktop/Project/GEMSTAT/external/usr
+libdir=/Users/shounakbhogale/Desktop/Project/GEMSTAT/external/usr/lib
+includedir=/Users/shounakbhogale/Desktop/Project/GEMSTAT/external/usr/include
+GSL_CBLAS_LIB=-lgslcblas
+
+Name: GSL
+Description: GNU Scientific Library
+Version: 2.4
+Libs: -L/Users/shounakbhogale/Desktop/Project/GEMSTAT/external/usr/lib -lgsl ${GSL_CBLAS_LIB}  -lm 
+Cflags: -I/Users/shounakbhogale/Desktop/Project/GEMSTAT/external/usr/include

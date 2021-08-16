@@ -1,0 +1,5 @@
+#! /bin/sh
+# tests/testexec.  Generated from testexec.in by configure.
+# Wraps seq2expr to ensure we use the one we compiled, not something somewhere else on the path
+
+exec '/Users/shounakbhogale/Desktop/Project/GEMSTAT/src/'"${1}" ${2+"$@"}

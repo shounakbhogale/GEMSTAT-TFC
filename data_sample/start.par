@@ -1,0 +1,22 @@
+{
+"tfs":{
+	"Bap":{"annot_thresh":0.8,"maxbind":1,"alpha_a":1,"alpha_r":1},
+	"Bin":{"annot_thresh":0.8,"maxbind":1,"alpha_a":1,"alpha_r":1},
+	"Ci":{"annot_thresh":0.8,"maxbind":1,"alpha_a":1,"alpha_r":1},
+	"Doc":{"annot_thresh":0.8,"maxbind":1,"alpha_a":1,"alpha_r":1},
+	"En":{"annot_thresh":0.8,"maxbind":1,"alpha_a":1,"alpha_r":1},
+	"Mad":{"annot_thresh":0.8,"maxbind":1,"alpha_a":1,"alpha_r":1},
+	"Med":{"annot_thresh":0.8,"maxbind":1,"alpha_a":1,"alpha_r":1},
+	"Pan":{"annot_thresh":0.8,"maxbind":1,"alpha_a":1,"alpha_r":1},
+	"Pox":{"annot_thresh":0.8,"maxbind":1,"alpha_a":1,"alpha_r":1},
+	"Slp":{"annot_thresh":0.8,"maxbind":1,"alpha_a":1,"alpha_r":1},
+	"Tin":{"annot_thresh":0.8,"maxbind":1,"alpha_a":1,"alpha_r":1},
+	"Twi":{"annot_thresh":0.8,"maxbind":1,"alpha_a":1,"alpha_r":1}
+	},
+"inter":{
+	"Bap:Bap":1
+	},
+"qbtm":[1],
+"enh":[{"pi":1,"beta":1}],
+"collective":{"globalnu":1}
+}

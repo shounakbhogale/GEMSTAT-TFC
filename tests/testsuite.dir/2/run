@@ -1,0 +1,5 @@
+#! /bin/sh
+test "${ZSH_VERSION+set}" = set && alias -g '${1+"$@"}'='"$@"'
+cd '/Users/shounakbhogale/Desktop/Project/GEMSTAT/tests'
+exec ${CONFIG_SHELL-/bin/sh} "/Users/shounakbhogale/Desktop/Project/GEMSTAT/tests/./testsuite" -v -d  2 ${1+"$@"}
+exit 1
